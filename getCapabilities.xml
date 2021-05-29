@@ -129,6 +129,11 @@
 				<Layers>GH:pop_area_mergece</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:ce_populacao_populacao_estimada__1_dot___10500_</Name>
+				<Title>ce_populacao_populacao_estimada__1_dot___10500_</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
